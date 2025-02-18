@@ -27,6 +27,7 @@ body{
     background-color: var(--color-primario);
     color: var(--color-secundario);
     margin-left: 25%;
+    zoom: 90%;
 }
 
 .left-sidebar {
